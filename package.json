@@ -1,12 +1,12 @@
 {
-  "name": "proyectobackend",
+  "name": "com77525_juanvillalva",
   "version": "1.0.0",
+  "description": "\"Primer servidor\"",
+  "license": "ISC",
+  "author": "\"Villalva Juan Pablo\"",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  }
 }
